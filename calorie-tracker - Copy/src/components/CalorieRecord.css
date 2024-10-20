@@ -1,0 +1,20 @@
+.CalorieRecord .record {
+  border: 1px solid antiquewhite;
+  border-radius: 3px;
+  list-style: none; /* Add this line */
+  display: flex;
+  color: #dedddd;
+  justify-content: space-evenly;
+  padding: 5px 0;
+  height: 40px;
+  align-items: center;
+  background-color: white;
+  height: auto;
+  width: 100%;
+}
+
+.record_calorie {
+  list-style: none;
+  color: antiquewhite;
+  font-weight: bold;
+}
